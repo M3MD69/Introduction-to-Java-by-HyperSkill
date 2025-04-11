@@ -6,8 +6,9 @@ public class Main {
         int code = scanner.nextInt();  // Read the signal code
 
         switch (code) {
-            case 1 -> System.out.println("Green");
-            break;
+            case 1:
+                System.out.println("Green");
+                break;
             case 2:
                 System.out.println("Yellow");
                 break;
