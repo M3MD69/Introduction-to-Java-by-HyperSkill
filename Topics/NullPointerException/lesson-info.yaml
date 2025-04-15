@@ -1,0 +1,6 @@
+content:
+  - Theory
+  - Return empty string when argument is null
+  - Lines that may throw NPE
+  - When NPE cannot occur
+  - Unknown input

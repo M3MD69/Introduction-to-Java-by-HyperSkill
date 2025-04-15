@@ -14,3 +14,8 @@ content:
   - Overloading
   - Array
   - Iterating over arrays
+  - String
+  - Errors in programs
+  - NullPointerException
+  - Instance methods
+  - Getters and setters
