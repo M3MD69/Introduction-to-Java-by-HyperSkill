@@ -19,3 +19,4 @@ content:
   - NullPointerException
   - Instance methods
   - Getters and setters
+  - Static members
